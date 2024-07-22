@@ -1,1 +1,1 @@
-![example event parameter](https://github.com/netology-code/aqa-homeworks/tree/master/api-ci#appveyor)
+![example event parameter](https://github.com/PhoenixReid/HomeWorkAvtoTest3/actions/runs/10041555913/job/27749901270)
