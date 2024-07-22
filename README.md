@@ -1,1 +1,1 @@
-![example event parameter](https://github.com/PhoenixReid/HomeWorkAvtoTest3/actions/runs/10041555913/job/27749901270)
+[![Java CI with Gradle](https://github.com/PhoenixReid/HomeWorkAvtoTest3/actions/workflows/gradle.yml/badge.svg)](https://github.com/PhoenixReid/HomeWorkAvtoTest3/actions/workflows/gradle.yml)
